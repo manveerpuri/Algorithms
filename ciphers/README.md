@@ -2,7 +2,7 @@
 Caesar Cipher
 ----
 Caesar Cipher substitutes the alphabet with another alphabet. The key *k* in this, an integer, corresponds to the *k-th* alphabet in [a b c ... z]. 
-####Example:
+#### Example:
     WELCOME TO CAESAR CIPHER
     Please select an option (Encrypt or Decrypt): encrypt
     Enter the message to encrypt: My name is Manveer Puri
@@ -18,7 +18,7 @@ Caesar Cipher substitutes the alphabet with another alphabet. The key *k* in thi
 Vigenère Cipher
 ----
 Vigenère Cipher substitutes a different alphabet for every alphabet in the message based on the key. We repeat the key if the size of key is smaller than the size of the message. There are similarities between this cipher and Caesar cipher.
-####Example:
+#### Example:
     WELCOME TO VIGENÈRE CIPHER
     Please select an option (Encrypt or Decrypt): encrypt
     Enter the message to encrypt: My name is Manveer Puri
